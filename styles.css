@@ -1,1 +1,24 @@
+.logo{
+	width:20px;
+}
+.about{
+	text-align:center;
+}
+.progressbar{
+	background-color:blue;
+	height:10px;
+}
 
+.progressbar1{
+	background-color:blue;
+	height:10px;
+	width:95%;
+}
+.parent{
+	display:flex;
+	justify-content:space-between;
+}
+.wrapper{
+	display:flex;
+	justify-content:space-between;
+}
